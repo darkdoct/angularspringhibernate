@@ -1,0 +1,34 @@
+.mat-form-field {
+    width: 70%;
+    align-content: center;
+    color: black;
+    background-color:white;
+}
+
+.mat-option{
+    color: #F26925;
+    background-color: #E8E8E8;
+}
+.mat-option:hover {
+    background-color:#D3D3D3
+}
+
+.mat-select{
+    width:100%;
+    /* color:black; */
+    background-color: white;
+}
+
+/* .mat-select-placeholder { } */
+
+.mat-raised-button{
+    text-align: center;
+   /* background-color: #FF4500; */
+    background-color: #f2f2f2;
+    font-size: 16px;
+    color: #F26925;
+}
+
+.button{
+    text-align: left;
+}

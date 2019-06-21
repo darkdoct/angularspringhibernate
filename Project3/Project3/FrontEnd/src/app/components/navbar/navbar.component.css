@@ -1,0 +1,20 @@
+.mat-button{
+    text-align: center;
+    background-color: #F26925;
+    font-size: 16px;
+    color:#f2f2f2;
+    margin: 2px;
+    width: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imgMainLogo img {
+    padding:20px;
+    max-width: 30%;
+}
